@@ -1,0 +1,11 @@
+{
+    "blacklisted": ["DPRK", "IRAN", "MYANMAR"],
+    "grey_listed": [
+        "SYRIA", "YEMEN", "LIBYA", "SOUTH_SUDAN", "MALI",
+        "HAITI", "BURKINA_FASO", "CAMEROON", "CONGO_DRC",
+        "MOZAMBIQUE", "NIGERIA", "SENEGAL", "TANZANIA",
+        "VIETNAM", "PHILIPPINES"
+    ],
+    "last_updated": "2026-04-01",
+    "source": "FATF Public Statement"
+}
