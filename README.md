@@ -1,5 +1,5 @@
 
-# 🇮🇳 India AI Trader
+#  TradeMax
 
 Autonomous AI trading system for Indian stock markets (NSE/BSE) powered by LangGraph multi-agent orchestration and Anthropic Claude.
 
